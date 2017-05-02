@@ -1,0 +1,9 @@
+@comment $OpenBSD$
+@bin bin/ifscanctl
+@bin bin/ifscand
+etc/
+etc/rc.conf.local
+etc/rc.d/
+etc/rc.d/ifscand
+@man man/man8/ifscanctl.8
+@man man/man8/ifscand.8
