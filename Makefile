@@ -13,7 +13,7 @@ HOMEPAGE=	https://github.com/opencoff/ifscand
 # source is here
 GH_ACCOUNT= opencoff
 GH_PROJECT= ifscand
-GH_COMMIT= 15ebc71ce42db52279051e2737a6ce055dfbf2bd
+GH_COMMIT= e163d1f318ca9b0b22ac67486ef12ac2a273f8c5
 
 PERMIT_PACKAGE_CDROM=	Yes
 NO_TEST = Yes
