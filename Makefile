@@ -2,7 +2,7 @@
 
 COMMENT=	Automatic WiFi configuration daemon
 
-V = 0.4
+V = 0.5
 DISTNAME= ifscand-${V}
 CATEGORIES=	net
 
